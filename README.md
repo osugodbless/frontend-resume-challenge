@@ -1,6 +1,6 @@
 **CLOUD RESUME CHALLENGE - FRONT_END**
 
-This project is a result of participation in the Cloud Resume Challenge, a structured initiative guiding developers through the creation of a comprehensive full-stack project utilizing Amazon Web Services (AWS). This challenge offers flexibility, allowing individuals to tailor their journey according to their preferences and interests.
+This project is a result of participation in the Cloud Resume Challenge, a structured initiative guiding cloud enthusiasts, developers, sys-admins etc., through the creation of a comprehensive full-stack project utilizing Amazon Web Services (AWS). This challenge offers flexibility, allowing individuals to tailor their journey according to their preferences and interests.
 
 The frontend components of the project are housed within this repository, while the deployed portfolio website can be accessed through the provided link.
 
